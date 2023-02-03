@@ -114,10 +114,10 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 [ Bootstrap ]*/
 
 .container {
-    max-width: 1380px;
+    max-width: 1280px;
 }
 
-@media (max-width: 1600px) {
+@media (max-width: 1280px) {
     .container {
         max-width: 1200px;
     }
