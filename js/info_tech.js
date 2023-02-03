@@ -126,6 +126,7 @@ const product = [{
         // ';
         price: 26500,
     }
+    
 ];
 const categories = [...new Set(product.map((item) => { return item }))]
 let i = 0;
