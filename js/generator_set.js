@@ -130,9 +130,13 @@ document.getElementById('root').innerHTML = categories.map((item) => {
             </div>
         <div class='bottom'>
         <p>${title}</p>
-        <h2>Rs. ${price}.00Call for Price</h2>` +
-        "<button onclick='addtocart(" + (i++) + ")'>Add to cart</button>" +
+        <h2>Rs. ${price}.00</h2>` +
+        
+        // "<button onclick='addtocart(" + (i++) + ")'>Add to cart</button>" +
+        // `</div>
+        "<button onclick='addtocart(" + (i++) + ")'>Call for Enquiry</button>" +
         `</div>
+
         </div>`
     )
 }).join('')
