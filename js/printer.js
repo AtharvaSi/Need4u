@@ -9,7 +9,7 @@ const product = [{
     {
         id: 1,
         image: 'images/printer/Laser-Printer/HP-LASER-PRINTER-1.jpg',
-        title: 'Navkar CCL EPABX Intercom System 432S (Black)',
+        title: 'HP LASER PRINTER 1',
         // description: 'HP 15s, 11th Gen  Intel Core i5-1155G7, 15.6 inch(39.6cm) FHD Anti-Glare Laptop(8GB RAM/512 GB SSD/Intel Iris Xe Graphics/Win 11/Dual Speakers/Backlit KeyboardAlexa Built-in/MSO 2021) 15s-fr4000TU
         // ';
         price: 0.00,
@@ -17,7 +17,7 @@ const product = [{
     {
         id: 2,
         image: 'images/printer/Laser-Printer/kyocera-laser-printer.PNG',
-        title: 'NAVKAR SSTEMS CCL 16 Lines EPABX Intercom System Extendable Upto 40 Lines',
+        title: 'Kyocera Laser Printer',
         // description: 'HP 245 G8  Business Laptop PC with AMD Ryzen™ 3 3250U/8 GB DDR4 RAM/512 GB PCIe® NVMe™ SSD /AMD Radeon™ Graphics/35.6 cm (14" inch)/Windows 11/Matte Black/1.5 KG/1 Year Onsite Warranty
         // ';
         price: 0.00,
@@ -25,7 +25,7 @@ const product = [{
     {
         id: 3,
         image: 'images/printer/Laser-Printer/brother_laser_printer.PNG',
-        title: 'NAVKAR SYSTEMS CCL 34 Lines EPABX Intercom Systems Not Extendable',
+        title: 'Brother Laser Printer',
         // description: 'Lenovo Legion 5 Pro AMD Ryzen 7 6800H 16" (40.64cm) QHD IPS 165Hz 500Nits Gaming Laptop (16GB/1TB SSD/Win 11/Office 2021/NVIDIA RTX 3060 6GB/Alexa/3 Month Game Pass/Glacier White/2.5Kg), 82RG00ELIN
         // ';
         price: 0.00,
@@ -33,7 +33,7 @@ const product = [{
     {
         id: 4,
         image: 'images/printer/Laser-Printer/CANON-LASER-PRINTER.jpg',
-        title: 'Navkar Systems CCL 416 Epabx with B25 16nos Phones',
+        title: 'CANON LASER PRINTER',
         // description: 'Lenovo IdeaPad Slim 5 Intel Core i5 11th Gen 15.6" (39.62cm) FHD IPS Thin & Light Laptop (16GB/512GB SSD/Windows 11/Office 2021/Backlit/FPR/3months Game Pass/Graphite Grey/1.66Kg),82FG01B3IN
         // ';
         price: 0.00,
@@ -41,7 +41,7 @@ const product = [{
     {
         id: 5,
         image: 'images/printer/Laser-Printer/EPSON-LASER-PRINTER.jpg',
-        title: 'Navkar Systems 232 Epabx with C51 32nos Phones',
+        title: 'EPSON LASER PRINTER',
         // description: 'Dell Vostro 3400 14" FHD Display Laptop (i3-1115G4 / 4GB / 1TB HDD + 256GB SSD / Integrated Graphics / Win10 + MSO / Dune Color) D552164WIN9DE + Dell D3100 USB 3.0 Ultra HD 
         // ';
         price: 0.000,
@@ -49,7 +49,7 @@ const product = [{
     {
         id: 6,
         image: 'images/printer/Laser-Printer/toshiba-laser-printer.jpg',
-        title: 'RKD DIPLOMAT Lift and Talk 2 Line Intercom System White',
+        title: 'Toshiba Laser Printer',
         // description: 'Dell G15-5520 Gaming Laptop, Intel i5-12500H, 8GB & 512GB SSD, NVIDIA RTX 3050 (4GB GDDR6), 15.6" (39.62Cms) FHD WVA AG 120Hz 250 nits, Backlit KB, Dark Shadow Grey (245510C0R31O0MC1IN, 2.81 KGs)
         // ';
         price: 0.00,
@@ -57,7 +57,7 @@ const product = [{
     {
         id: 7,
         image: 'images/printer/Laser-Printer/xerox-laser-printer.jpg',
-        title: 'Navkar Systems Diplomat 004(4Line) EPABX System for 4 Line Intercommunicatio (Wiring Required from All extentions  to System)',
+        title: 'Xerox Laser Printer',
         // description: 'Acer Extensa 15 Lightweight Laptop Intel Core i3 11th Gen Processor - (8 GB/ 256 GB SSD/ 1 TB HDD/ Windows 11 Home/ 1.7kg/ Black/ Elevated Hinge Design) EX215-54 with 39.6 cm (15.6 inches) FHD Display
         // ';
         price: 0.00,
